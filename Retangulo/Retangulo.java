@@ -1,4 +1,4 @@
-    //aqui e a classe
+    //aqui e a classe :)
 public class Retangulo{
     double altura;
     double largura;
