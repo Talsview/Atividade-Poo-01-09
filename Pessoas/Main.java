@@ -7,5 +7,6 @@ public class Main{
         aPessoas.nacionalidade = "Brasileiro";
         
         aPessoas.mostrarInfo();
+        aPessoa.aniversario();
     }
 }
