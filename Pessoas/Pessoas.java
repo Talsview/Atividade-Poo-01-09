@@ -8,7 +8,7 @@ public class Pessoas {
     public void mostrarInfo(){
     System.out.println("Nome: " + nome + " Idade: " + idade + " Altura: " + altura + " Nacionalidade :" + nacionalidade);
 
-        public int niver(){
+        public int aniversario(){
             return idade + 1;
     
         }
